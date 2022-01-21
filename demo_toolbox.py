@@ -9,7 +9,7 @@ from utils.default_models import ensure_default_models
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description="Runs the toolbox.",
+        description="运行工具箱.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
     )
 
